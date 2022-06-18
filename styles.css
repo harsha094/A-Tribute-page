@@ -1,0 +1,42 @@
+html,body{
+  font-family: Roboto;
+  text-align: left;
+  min-width: 300px;
+  color: #000;
+}
+#main{
+  margin: 20px;
+  padding: 30px;
+  border: 10px solid;
+}
+img-width{
+  max-width: 100%;
+  display: block;
+  width: auto;
+  height: auto;
+}
+#img-div{
+  margin: 5px;
+  margin-top:30px;
+  width:100%;
+  border:2px solid white;
+  background: white;
+}
+#img-caption{
+  margin:15px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:1200px;
+  margin: -25px auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-style: bold;
+}
